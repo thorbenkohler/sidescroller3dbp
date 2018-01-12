@@ -2,7 +2,7 @@
 
 ## one-week-prototype
 ### features on top of standard example 
-* jumping
+* tweaked jumping
 * shooting destrucibles
 * collecting coins, which are displayed in a HUD
 * losing lifes by getting shot
