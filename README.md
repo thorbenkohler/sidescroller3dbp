@@ -12,8 +12,8 @@
 ### features on top of standard example 
 * tweaked jumping
 * shooting destrucibles
-* collecting coins, which are displayed in a HUD
+* collecting coins, which are displayed in a HUD (text + icon) and playing a sound
 * losing lifes by getting shot
-* collecting lifes, which are shown on the HUD
+* collecting lifes, which are displayed in a HUD (icons) and playing a sound
 * respawn after death
 * death and shoot animation
