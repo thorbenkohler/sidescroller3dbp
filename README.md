@@ -4,7 +4,7 @@
 
 ### How to Play
 * Press Play in Editor
-* move with W and D
+* move with A and D
 * jump with SPACE
 * shoot with F (can be hold down)
 
