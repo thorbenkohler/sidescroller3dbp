@@ -12,6 +12,7 @@
 ### features on top of standard example 
 * tweaked jumping
 * shooting destrucibles
+* moving destructibles (can be used for static objects as well)
 * collecting coins, which are displayed in a HUD (text + icon) and playing a sound
 * losing lifes by getting shot
 * collecting lifes, which are displayed in a HUD (icons) and playing a sound
